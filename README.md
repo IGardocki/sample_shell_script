@@ -2,6 +2,7 @@
 
 ## Shell scripts!
 *AS A NOTE, SHEBANGS ARE NOT RECOGNIZED ON WINDOWS MACHINES*
+
 Ok, these are super cool. And they start with a shebang! But what is a shebang? It's basically a line at the top of the file that starts with #! that tells the computer how you want to execute your code! To find the path to the thing I want to use, I would type
 ```bash
 which {thing_I_want_to_use}
